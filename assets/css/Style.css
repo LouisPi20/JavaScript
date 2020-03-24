@@ -1,0 +1,49 @@
+.header{
+    text-align: center;
+    font-style: oblique;
+}
+
+.grosCarre{
+margin: auto;
+width: 20%;
+padding-bottom: 1%;
+border-radius: 10px 10px 0px 0px;
+background-color: white;
+}
+
+.content{
+    margin: auto;
+    width: 90%;
+    padding-bottom: 100%;
+    padding-top: 1%;
+    background-color: blueviolet;
+}
+
+.add-item{
+    margin: auto;
+    width: 90%;
+    padding-bottom: 100%;
+    padding-top: 1%;
+    background-color: green;
+
+}
+
+
+img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+body{
+background-color: rgb(216, 211, 211);
+}
+
+.btn{
+        width:35px;
+        height:35px;
+        background: rgb(66, 66, 245);
+        font:bold 13px Arial;
+        border-radius:50%;
+        border:none;
+        color:#fff;
+}
